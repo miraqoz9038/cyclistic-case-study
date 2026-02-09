@@ -122,4 +122,7 @@ This analysis examines usage patterns between casual riders and annual members i
 
 ---
 
+Data Source: Divvy Bike Share Data (public dataset)
+Disclaimer: This is a capstone project for the Google Data Analytics Certificate
+
 *Analysis based on Cyclistic bike-share data. All insights derived from the provided dataset spanning multiple months of ridership patterns.*
